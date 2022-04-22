@@ -1,3 +1,3 @@
-# Laboratoire 9: Assertions & Triggers
-- Céline Wan Min Kee
-- Numéro étudiant: 300193369
+# CSI 2532: Base de données
+## Exercices de laboratoire: Diagrammes ER, schémas relationnels, SQL
+
