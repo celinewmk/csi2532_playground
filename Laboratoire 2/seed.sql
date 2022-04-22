@@ -1,0 +1,9 @@
+INSERT INTO voitures 
+VALUES('BMW', 2018, 'X2'),
+	('Mercedes-Benz', 2012, 'A-Class'),
+	('Audi', 2008, 'R8'),
+	('Porsche', 2014, 'Macan'),
+	('Nissan', 2004, 'Tida'),
+	('Toyota', 2000, 'Corolla'),
+	('Honda', 2002, 'Civic'),
+	('Jeep', 2019, 'Renegade');
